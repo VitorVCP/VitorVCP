@@ -19,3 +19,4 @@
   <a href="https://www.linkedin.com/in/vitor-carvalhaes-4354b9352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+My playlist: https://open.spotify.com/playlist/6lKeo7zBUyTBHV5lADb17e
