@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVCP&layout=compact&langs_count=7&theme=dracula"/> 
   <div style="display: inline_block"><br>
 
-
+<img alt="Vitor-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   
   <div> 
  <a href="https://discord.gg/bWHfMB6Md8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
