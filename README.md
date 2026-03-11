@@ -2,7 +2,7 @@
 
 
 - 🔭 I`m studying Information Systems
-- 🌱 I’m currently learning Java and Portugol
+- 🌱 I’m currently learning Java and C#
 - 💬 I intend to learn Java script, python and C sharp
 - 📫 Contact me at email: vitorcarvalhaes0@gmail.com
 - 🎧 Im probably listening to music
